@@ -8,3 +8,5 @@ A url-shortener app using :
 URLs
  * POST /rest/url with body as long_url_string - For creating the short url from long url
  * GET /rest/url/{id} - For retrieving the long URL from short id
+
+Repository : https://github.com/OmkarEr/url-shortener.git
